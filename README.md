@@ -1,1 +1,11 @@
 # MscThesisFernando
+
+
+Goal:
+
+
+
+To Do:
+-
+-
+-
