@@ -1,0 +1,21 @@
+Question,Counts,Year,population,Percentage
+Positivos:Aspecto Visual,226,2017,442,0.5113122171945701
+Positivos:Navegação na Ferramenta,270,2017,442,0.6108597285067874
+Positivos:Perguntas,112,2017,442,0.25339366515837103
+Positivos:Exemplos,192,2017,442,0.4343891402714932
+Positivos:Vídeos,273,2017,442,0.6176470588235294
+Positivos:Modelo de Negócios,245,2017,442,0.5542986425339367
+Positivos:Indicações de Interface,107,2017,442,0.2420814479638009
+Positivos:Mural de Equipa,23,2017,442,0.05203619909502263
+Positivos:Gestão de Equipa,46,2017,442,0.10407239819004525
+Positivos:Gestão de Projectos,176,2017,442,0.39819004524886875
+Negativos:Aspecto Visual,59,2017,442,0.1334841628959276
+Negativos:Navegação na Ferramenta,100,2017,442,0.22624434389140272
+Negativos:Perguntas,106,2017,442,0.2398190045248869
+Negativos:Exemplos,107,2017,442,0.2420814479638009
+Negativos:Vídeos,63,2017,442,0.1425339366515837
+Negativos:Modelo de Negócios,33,2017,442,0.0746606334841629
+Negativos:Indicações de Interface,131,2017,442,0.29638009049773756
+Negativos:Mural de Equipa,107,2017,442,0.2420814479638009
+Negativos:Gestão de Equipa,80,2017,442,0.18099547511312217
+Negativos:Gestão de Projectos,52,2017,442,0.11764705882352941
