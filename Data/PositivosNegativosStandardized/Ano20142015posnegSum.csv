@@ -1,21 +1,21 @@
-Question,Counts,Year,population,Percentage
-Positivos:Aspecto Visual,36,2015,88,0.4090909090909091
-Positivos:Navegação na Ferramenta,44,2015,88,0.5
-Positivos:Perguntas,15,2015,88,0.17045454545454544
-Positivos:Exemplos,25,2015,88,0.2840909090909091
-Positivos:Vídeos,32,2015,88,0.36363636363636365
-Positivos:Modelo de Negócios,47,2015,88,0.5340909090909091
-Positivos:Indicações de Interface,11,2015,88,0.125
-Positivos:Mural de Equipa,4,2015,88,0.045454545454545456
-Positivos:Gestão de Equipa,4,2015,88,0.045454545454545456
-Positivos:Gestão de Projectos,38,2015,88,0.4318181818181818
-Negativos:Aspecto Visual,13,2015,88,0.14772727272727273
-Negativos:Navegação na Ferramenta,23,2015,88,0.26136363636363635
-Negativos:Perguntas,22,2015,88,0.25
-Negativos:Exemplos,21,2015,88,0.23863636363636365
-Negativos:Vídeos,22,2015,88,0.25
-Negativos:Modelo de Negócios,9,2015,88,0.10227272727272728
-Negativos:Indicações de Interface,32,2015,88,0.36363636363636365
-Negativos:Mural de Equipa,28,2015,88,0.3181818181818182
-Negativos:Gestão de Equipa,25,2015,88,0.2840909090909091
-Negativos:Gestão de Projectos,11,2015,88,0.125
+Question,Counts,Year,population,Percentage,P/N
+Aspecto Visual,36,2015,88,0.4090909090909091,Positivos
+Navegação na Ferramenta,44,2015,88,0.5,Positivos
+Perguntas,15,2015,88,0.17045454545454544,Positivos
+Exemplos,25,2015,88,0.2840909090909091,Positivos
+Vídeos,32,2015,88,0.36363636363636365,Positivos
+Modelo de Negócios,47,2015,88,0.5340909090909091,Positivos
+Indicações de Interface,11,2015,88,0.125,Positivos
+Mural de Equipa,4,2015,88,0.045454545454545456,Positivos
+Gestão de Equipa,4,2015,88,0.045454545454545456,Positivos
+Gestão de Projectos,38,2015,88,0.4318181818181818,Positivos
+Aspecto Visual,13,2015,88,0.14772727272727273,Negativos
+Navegação na Ferramenta,23,2015,88,0.26136363636363635,Negativos
+Perguntas,22,2015,88,0.25,Negativos
+Exemplos,21,2015,88,0.23863636363636365,Negativos
+Vídeos,22,2015,88,0.25,Negativos
+Modelo de Negócios,9,2015,88,0.10227272727272728,Negativos
+Indicações de Interface,32,2015,88,0.36363636363636365,Negativos
+Mural de Equipa,28,2015,88,0.3181818181818182,Negativos
+Gestão de Equipa,25,2015,88,0.2840909090909091,Negativos
+Gestão de Projectos,11,2015,88,0.125,Negativos

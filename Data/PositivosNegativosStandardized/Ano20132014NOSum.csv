@@ -1,21 +1,21 @@
-Question,Counts,Year,population,Percentage
-Positivos:Aspecto Visual,63,2014,117,0.5384615384615384
-Positivos:Navegação na Ferramenta,71,2014,117,0.6068376068376068
-Positivos:Perguntas,44,2014,117,0.37606837606837606
-Positivos:Exemplos,47,2014,117,0.4017094017094017
-Positivos:Vídeos,27,2014,117,0.23076923076923078
-Positivos:Modelo de Negócios,45,2014,117,0.38461538461538464
-Positivos:Indicações de Interface,15,2014,117,0.1282051282051282
-Positivos:Mural de Equipa,2,2014,117,0.017094017094017096
-Positivos:Gestão de Equipa,5,2014,117,0.042735042735042736
-Positivos:Gestão de Projectos,32,2014,117,0.27350427350427353
-Negativos:Aspecto Visual,13,2014,117,0.1111111111111111
-Negativos:Navegação na Ferramenta,17,2014,117,0.1452991452991453
-Negativos:Perguntas,19,2014,117,0.1623931623931624
-Negativos:Exemplos,26,2014,117,0.2222222222222222
-Negativos:Vídeos,43,2014,117,0.36752136752136755
-Negativos:Modelo de Negócios,11,2014,117,0.09401709401709402
-Negativos:Indicações de Interface,44,2014,117,0.37606837606837606
-Negativos:Mural de Equipa,52,2014,117,0.4444444444444444
-Negativos:Gestão de Equipa,41,2014,117,0.3504273504273504
-Negativos:Gestão de Projectos,11,2014,117,0.09401709401709402
+Question,Counts,Year,population,Percentage,P/N
+Aspecto Visual,62,2014,117,0.5299145299145299,Positivos
+Navegação na Ferramenta,70,2014,117,0.5982905982905983,Positivos
+Perguntas,43,2014,117,0.36752136752136755,Positivos
+Exemplos,46,2014,117,0.39316239316239315,Positivos
+Vídeos,26,2014,117,0.2222222222222222,Positivos
+Modelo de Negócios,44,2014,117,0.37606837606837606,Positivos
+Indicações de Interface,14,2014,117,0.11965811965811966,Positivos
+Mural de Equipa,1,2014,117,0.008547008547008548,Positivos
+Gestão de Equipa,4,2014,117,0.03418803418803419,Positivos
+Gestão de Projectos,31,2014,117,0.26495726495726496,Positivos
+Aspecto Visual,12,2014,117,0.10256410256410256,Negativos
+Navegação na Ferramenta,16,2014,117,0.13675213675213677,Negativos
+Perguntas,18,2014,117,0.15384615384615385,Negativos
+Exemplos,25,2014,117,0.21367521367521367,Negativos
+Vídeos,42,2014,117,0.358974358974359,Negativos
+Modelo de Negócios,10,2014,117,0.08547008547008547,Negativos
+Indicações de Interface,43,2014,117,0.36752136752136755,Negativos
+Mural de Equipa,51,2014,117,0.4358974358974359,Negativos
+Gestão de Equipa,40,2014,117,0.3418803418803419,Negativos
+Gestão de Projectos,10,2014,117,0.08547008547008547,Negativos
