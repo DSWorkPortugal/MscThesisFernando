@@ -1,0 +1,145 @@
+Question,Counts,Year,population,Percentage,P/N,Questao
+Aspecto Visual,906,2014,1550,0.5845161290322579,Positivos,Positivos : Aspecto Visual
+Navegação na Ferramenta,890,2014,1550,0.5741935483870968,Positivos,Positivos : Navegação na Ferramenta
+Perguntas,516,2014,1550,0.3329032258064516,Positivos,Positivos : Perguntas
+Exemplos,668,2014,1550,0.4309677419354839,Positivos,Positivos : Exemplos
+Vídeos,252,2014,1550,0.1625806451612903,Positivos,Positivos : Vídeos
+Modelo de Negócios,593,2014,1550,0.3825806451612903,Positivos,Positivos : Modelo de Negócios
+Indicações de Interface,191,2014,1550,0.12322580645161292,Positivos,Positivos : Indicações de Interface
+Mural de Equipa,68,2014,1550,0.04387096774193548,Positivos,Positivos : Mural de Equipa
+Gestão de Equipa,55,2014,1550,0.035483870967741936,Positivos,Positivos : Gestão de Equipa
+Gestão de Projectos,435,2014,1550,0.2806451612903226,Positivos,Positivos : Gestão de Projectos
+Acesso a recursos externos,46,2014,1550,0.029677419354838714,Positivos,Positivos : Acesso a recursos externos
+Aspecto Visual,151,2014,1550,0.09741935483870967,Negativos,Negativos : Aspecto Visual
+Navegação na Ferramenta,276,2014,1550,0.17806451612903226,Negativos,Negativos : Navegação na Ferramenta
+Perguntas,246,2014,1550,0.15870967741935485,Negativos,Negativos : Perguntas
+Exemplos,315,2014,1550,0.2032258064516129,Negativos,Negativos : Exemplos
+Vídeos,643,2014,1550,0.41483870967741937,Negativos,Negativos : Vídeos
+Modelo de Negócios,138,2014,1550,0.08903225806451613,Negativos,Negativos : Modelo de Negócios
+Indicações de Interface,481,2014,1550,0.3103225806451613,Negativos,Negativos : Indicações de Interface
+Mural de Equipa,575,2014,1550,0.3709677419354839,Negativos,Negativos : Mural de Equipa
+Gestão de Equipa,498,2014,1550,0.3212903225806452,Negativos,Negativos : Gestão de Equipa
+Gestão de Projectos,207,2014,1550,0.1335483870967742,Negativos,Negativos : Gestão de Projectos
+Acesso a recursos externos,837,2014,1550,0.54,Negativos,Negativos : Acesso a recursos externos
+Aspecto Visual,36,2015,88,0.4090909090909091,Positivos,Positivos : Aspecto Visual
+Navegação na Ferramenta,44,2015,88,0.5,Positivos,Positivos : Navegação na Ferramenta
+Perguntas,15,2015,88,0.17045454545454544,Positivos,Positivos : Perguntas
+Exemplos,25,2015,88,0.2840909090909091,Positivos,Positivos : Exemplos
+Vídeos,32,2015,88,0.3636363636363637,Positivos,Positivos : Vídeos
+Modelo de Negócios,47,2015,88,0.5340909090909091,Positivos,Positivos : Modelo de Negócios
+Indicações de Interface,11,2015,88,0.125,Positivos,Positivos : Indicações de Interface
+Mural de Equipa,4,2015,88,0.045454545454545456,Positivos,Positivos : Mural de Equipa
+Gestão de Equipa,4,2015,88,0.045454545454545456,Positivos,Positivos : Gestão de Equipa
+Gestão de Projectos,38,2015,88,0.4318181818181818,Positivos,Positivos : Gestão de Projectos
+Acesso a recursos externos,2,2015,88,0.022727272727272728,Positivos,Positivos : Acesso a recursos externos
+Aspecto Visual,13,2015,88,0.14772727272727273,Negativos,Negativos : Aspecto Visual
+Navegação na Ferramenta,23,2015,88,0.26136363636363635,Negativos,Negativos : Navegação na Ferramenta
+Perguntas,22,2015,88,0.25,Negativos,Negativos : Perguntas
+Exemplos,21,2015,88,0.23863636363636365,Negativos,Negativos : Exemplos
+Vídeos,22,2015,88,0.25,Negativos,Negativos : Vídeos
+Modelo de Negócios,9,2015,88,0.10227272727272728,Negativos,Negativos : Modelo de Negócios
+Indicações de Interface,32,2015,88,0.3636363636363637,Negativos,Negativos : Indicações de Interface
+Mural de Equipa,28,2015,88,0.3181818181818182,Negativos,Negativos : Mural de Equipa
+Gestão de Equipa,25,2015,88,0.2840909090909091,Negativos,Negativos : Gestão de Equipa
+Gestão de Projectos,11,2015,88,0.125,Negativos,Negativos : Gestão de Projectos
+Acesso a recursos externos,58,2015,88,0.6590909090909091,Negativos,Negativos : Acesso a recursos externos
+Aspecto Visual,107,2016,249,0.4297188755020081,Positivos,Positivos : Aspecto Visual
+Navegação na Ferramenta,118,2016,249,0.4738955823293173,Positivos,Positivos : Navegação na Ferramenta
+Perguntas,58,2016,249,0.2329317269076305,Positivos,Positivos : Perguntas
+Exemplos,92,2016,249,0.3694779116465863,Positivos,Positivos : Exemplos
+Vídeos,90,2016,249,0.3614457831325301,Positivos,Positivos : Vídeos
+Modelo de Negócios,129,2016,249,0.5180722891566265,Positivos,Positivos : Modelo de Negócios
+Indicações de Interface,42,2016,249,0.1686746987951807,Positivos,Positivos : Indicações de Interface
+Mural de Equipa,16,2016,249,0.0642570281124498,Positivos,Positivos : Mural de Equipa
+Gestão de Equipa,27,2016,249,0.10843373493975904,Positivos,Positivos : Gestão de Equipa
+Gestão de Projectos,84,2016,249,0.3373493975903614,Positivos,Positivos : Gestão de Projectos
+Aspecto Visual,35,2016,249,0.14056224899598393,Negativos,Negativos : Aspecto Visual
+Navegação na Ferramenta,57,2016,249,0.2289156626506024,Negativos,Negativos : Navegação na Ferramenta
+Perguntas,55,2016,249,0.22088353413654616,Negativos,Negativos : Perguntas
+Exemplos,58,2016,249,0.2329317269076305,Negativos,Negativos : Exemplos
+Vídeos,43,2016,249,0.17269076305220885,Negativos,Negativos : Vídeos
+Modelo de Negócios,26,2016,249,0.10441767068273093,Negativos,Negativos : Modelo de Negócios
+Indicações de Interface,93,2016,249,0.3734939759036144,Negativos,Negativos : Indicações de Interface
+Mural de Equipa,72,2016,249,0.2891566265060241,Negativos,Negativos : Mural de Equipa
+Gestão de Equipa,51,2016,249,0.20481927710843373,Negativos,Negativos : Gestão de Equipa
+Gestão de Projectos,47,2016,249,0.18875502008032127,Negativos,Negativos : Gestão de Projectos
+Aspecto Visual,226,2017,442,0.5113122171945701,Positivos,Positivos : Aspecto Visual
+Navegação na Ferramenta,270,2017,442,0.6108597285067874,Positivos,Positivos : Navegação na Ferramenta
+Perguntas,112,2017,442,0.25339366515837103,Positivos,Positivos : Perguntas
+Exemplos,192,2017,442,0.4343891402714932,Positivos,Positivos : Exemplos
+Vídeos,273,2017,442,0.6176470588235294,Positivos,Positivos : Vídeos
+Modelo de Negócios,245,2017,442,0.5542986425339367,Positivos,Positivos : Modelo de Negócios
+Indicações de Interface,107,2017,442,0.2420814479638009,Positivos,Positivos : Indicações de Interface
+Mural de Equipa,23,2017,442,0.052036199095022634,Positivos,Positivos : Mural de Equipa
+Gestão de Equipa,46,2017,442,0.10407239819004524,Positivos,Positivos : Gestão de Equipa
+Gestão de Projectos,176,2017,442,0.3981900452488688,Positivos,Positivos : Gestão de Projectos
+Aspecto Visual,59,2017,442,0.1334841628959276,Negativos,Negativos : Aspecto Visual
+Navegação na Ferramenta,100,2017,442,0.2262443438914027,Negativos,Negativos : Navegação na Ferramenta
+Perguntas,106,2017,442,0.2398190045248869,Negativos,Negativos : Perguntas
+Exemplos,107,2017,442,0.2420814479638009,Negativos,Negativos : Exemplos
+Vídeos,63,2017,442,0.1425339366515837,Negativos,Negativos : Vídeos
+Modelo de Negócios,33,2017,442,0.0746606334841629,Negativos,Negativos : Modelo de Negócios
+Indicações de Interface,131,2017,442,0.2963800904977376,Negativos,Negativos : Indicações de Interface
+Mural de Equipa,107,2017,442,0.2420814479638009,Negativos,Negativos : Mural de Equipa
+Gestão de Equipa,80,2017,442,0.18099547511312214,Negativos,Negativos : Gestão de Equipa
+Gestão de Projectos,52,2017,442,0.1176470588235294,Negativos,Negativos : Gestão de Projectos
+Aspecto Visual,460,2018,870,0.5287356321839081,Positivos,Positivos : Aspecto Visual
+Navegação na Ferramenta,525,2018,870,0.603448275862069,Positivos,Positivos : Navegação na Ferramenta
+Perguntas,235,2018,870,0.27011494252873564,Positivos,Positivos : Perguntas
+Exemplos,362,2018,870,0.4160919540229885,Positivos,Positivos : Exemplos
+Vídeos,407,2018,870,0.467816091954023,Positivos,Positivos : Vídeos
+Modelo de Negócios,478,2018,870,0.5494252873563218,Positivos,Positivos : Modelo de Negócios
+Indicações de Interface,206,2018,870,0.2367816091954023,Positivos,Positivos : Indicações de Interface
+Mural de Equipa,38,2018,870,0.04367816091954023,Positivos,Positivos : Mural de Equipa
+Gestão de Equipa,97,2018,870,0.11149425287356322,Positivos,Positivos : Gestão de Equipa
+Gestão de Projectos,296,2018,870,0.3402298850574713,Positivos,Positivos : Gestão de Projectos
+Aspecto Visual,131,2018,870,0.15057471264367814,Negativos,Negativos : Aspecto Visual
+Navegação na Ferramenta,190,2018,870,0.2183908045977012,Negativos,Negativos : Navegação na Ferramenta
+Perguntas,266,2018,870,0.3057471264367816,Negativos,Negativos : Perguntas
+Exemplos,260,2018,870,0.2988505747126437,Negativos,Negativos : Exemplos
+Vídeos,180,2018,870,0.20689655172413796,Negativos,Negativos : Vídeos
+Modelo de Negócios,78,2018,870,0.0896551724137931,Negativos,Negativos : Modelo de Negócios
+Indicações de Interface,285,2018,870,0.3275862068965517,Negativos,Negativos : Indicações de Interface
+Mural de Equipa,224,2018,870,0.2574712643678161,Negativos,Negativos : Mural de Equipa
+Gestão de Equipa,134,2018,870,0.15402298850574714,Negativos,Negativos : Gestão de Equipa
+Gestão de Projectos,95,2018,870,0.10919540229885058,Negativos,Negativos : Gestão de Projectos
+Resumo do negócio,1,2019,190,0.005263157894736842,Positivos,Positivos : Resumo do negócio
+Modelo de Negócios,107,2019,190,0.5631578947368421,Positivos,Positivos : Modelo de Negócios
+Indicações de interface,20,2019,190,0.10526315789473684,Positivos,Positivos : Indicações de interface
+Navegação na Ferramenta,88,2019,190,0.4631578947368421,Positivos,Positivos : Navegação na Ferramenta
+Aspecto Visual,71,2019,190,0.3736842105263158,Positivos,Positivos : Aspecto Visual
+Exemplos,66,2019,190,0.3473684210526316,Positivos,Positivos : Exemplos
+Perguntas,36,2019,190,0.18947368421052632,Positivos,Positivos : Perguntas
+Vídeos,55,2019,190,0.2894736842105263,Positivos,Positivos : Vídeos
+Gestão de Equipa,25,2019,190,0.13157894736842105,Positivos,Positivos : Gestão de Equipa
+Acesso a recursos externos,11,2019,190,0.05789473684210526,Positivos,Positivos : Acesso a recursos externos
+Resumo do negócio,0,2019,190,0.0,Negativos,Negativos : Resumo do negócio
+Modelo de Negócios,25,2019,190,0.13157894736842105,Negativos,Negativos : Modelo de Negócios
+Indicações de interface,54,2019,190,0.2842105263157895,Negativos,Negativos : Indicações de interface
+Navegação na Ferramenta,44,2019,190,0.23157894736842105,Negativos,Negativos : Navegação na Ferramenta
+Aspecto Visual,36,2019,190,0.18947368421052632,Negativos,Negativos : Aspecto Visual
+Exemplos,38,2019,190,0.2,Negativos,Negativos : Exemplos
+Perguntas,42,2019,190,0.22105263157894736,Negativos,Negativos : Perguntas
+Vídeos,24,2019,190,0.1263157894736842,Negativos,Negativos : Vídeos
+Gestão de Equipa,41,2019,190,0.21578947368421053,Negativos,Negativos : Gestão de Equipa
+Acesso a recursos externos,78,2019,190,0.4105263157894737,Negativos,Negativos : Acesso a recursos externos
+Resumo do negócio,0,2020,132,0.0,Positivos,Positivos : Resumo do negócio
+Modelo de Negócios,78,2020,132,0.5909090909090909,Positivos,Positivos : Modelo de Negócios
+Indicações de interface,13,2020,132,0.09848484848484848,Positivos,Positivos : Indicações de interface
+Navegação na Ferramenta,48,2020,132,0.3636363636363637,Positivos,Positivos : Navegação na Ferramenta
+Aspecto Visual,43,2020,132,0.3257575757575757,Positivos,Positivos : Aspecto Visual
+Exemplos,46,2020,132,0.3484848484848485,Positivos,Positivos : Exemplos
+Perguntas,24,2020,132,0.18181818181818185,Positivos,Positivos : Perguntas
+Vídeos,52,2020,132,0.3939393939393939,Positivos,Positivos : Vídeos
+Gestão de Equipa,18,2020,132,0.13636363636363635,Positivos,Positivos : Gestão de Equipa
+Acesso a recursos externos,15,2020,132,0.11363636363636365,Positivos,Positivos : Acesso a recursos externos
+Resumo do negócio,0,2020,132,0.0,Negativos,Negativos : Resumo do negócio
+Modelo de Negócios,13,2020,132,0.09848484848484848,Negativos,Negativos : Modelo de Negócios
+Indicações de interface,35,2020,132,0.26515151515151514,Negativos,Negativos : Indicações de interface
+Navegação na Ferramenta,45,2020,132,0.3409090909090909,Negativos,Negativos : Navegação na Ferramenta
+Aspecto Visual,27,2020,132,0.20454545454545456,Negativos,Negativos : Aspecto Visual
+Exemplos,19,2020,132,0.14393939393939395,Negativos,Negativos : Exemplos
+Perguntas,27,2020,132,0.20454545454545456,Negativos,Negativos : Perguntas
+Vídeos,14,2020,132,0.10606060606060606,Negativos,Negativos : Vídeos
+Gestão de Equipa,25,2020,132,0.1893939393939394,Negativos,Negativos : Gestão de Equipa
+Acesso a recursos externos,37,2020,132,0.2803030303030303,Negativos,Negativos : Acesso a recursos externos
