@@ -1,0 +1,145 @@
+Question,Counts,Year,population,Percentage,P/N
+Aspecto Visual,231,2014,442,0.5226244343891403,Positivos
+Navegação na Ferramenta,271,2014,442,0.6131221719457014,Positivos
+Perguntas,172,2014,442,0.3891402714932127,Positivos
+Exemplos,170,2014,442,0.38461538461538464,Positivos
+Vídeos,66,2014,442,0.1493212669683258,Positivos
+Modelo de Negócios,190,2014,442,0.4298642533936652,Positivos
+Indicações de Interface,52,2014,442,0.1176470588235294,Positivos
+Mural de Equipa,11,2014,442,0.024886877828054297,Positivos
+Gestão de Equipa,15,2014,442,0.033936651583710405,Positivos
+Gestão de Projectos,133,2014,442,0.3009049773755656,Positivos
+ Acesso a recursos externos,10,2014,442,0.022624434389140267,Positivos
+Aspecto Visual,49,2014,442,0.11085972850678733,Negativos
+Navegação na Ferramenta,51,2014,442,0.1153846153846154,Negativos
+Perguntas,51,2014,442,0.1153846153846154,Negativos
+Exemplos,79,2014,442,0.17873303167420815,Negativos
+Vídeos,194,2014,442,0.4389140271493213,Negativos
+Modelo de Negócios,22,2014,442,0.049773755656108594,Negativos
+Indicações de Interface,137,2014,442,0.3099547511312217,Negativos
+Mural de Equipa,187,2014,442,0.4230769230769231,Negativos
+Gestão de Equipa,161,2014,442,0.3642533936651584,Negativos
+Gestão de Projectos,51,2014,442,0.1153846153846154,Negativos
+ Acesso a recursos externos,258,2014,442,0.5837104072398189,Negativos
+Aspecto Visual,12,2015,39,0.3076923076923077,Positivos
+Navegação na Ferramenta,21,2015,39,0.5384615384615384,Positivos
+Perguntas,5,2015,39,0.1282051282051282,Positivos
+Exemplos,10,2015,39,0.2564102564102564,Positivos
+Vídeos,13,2015,39,0.3333333333333333,Positivos
+Modelo de Negócios,25,2015,39,0.6410256410256411,Positivos
+Indicações de Interface,5,2015,39,0.1282051282051282,Positivos
+Mural de Equipa,2,2015,39,0.05128205128205128,Positivos
+Gestão de Equipa,2,2015,39,0.05128205128205128,Positivos
+Gestão de Projectos,19,2015,39,0.4871794871794872,Positivos
+ Acesso a recursos externos,0,2015,39,0.0,Positivos
+Aspecto Visual,6,2015,39,0.15384615384615385,Negativos
+Navegação na Ferramenta,5,2015,39,0.1282051282051282,Negativos
+Perguntas,13,2015,39,0.3333333333333333,Negativos
+Exemplos,10,2015,39,0.2564102564102564,Negativos
+Vídeos,11,2015,39,0.28205128205128205,Negativos
+Modelo de Negócios,3,2015,39,0.07692307692307693,Negativos
+Indicações de Interface,10,2015,39,0.2564102564102564,Negativos
+Mural de Equipa,15,2015,39,0.38461538461538464,Negativos
+Gestão de Equipa,16,2015,39,0.41025641025641024,Negativos
+Gestão de Projectos,2,2015,39,0.05128205128205128,Negativos
+ Acesso a recursos externos,26,2015,39,0.6666666666666666,Negativos
+Aspecto Visual,50,2016,121,0.4132231404958678,Positivos
+Navegação na Ferramenta,67,2016,121,0.5537190082644629,Positivos
+Perguntas,34,2016,121,0.2809917355371901,Positivos
+Exemplos,54,2016,121,0.4462809917355372,Positivos
+Vídeos,60,2016,121,0.4958677685950413,Positivos
+Modelo de Negócios,79,2016,121,0.6528925619834711,Positivos
+Indicações de Interface,26,2016,121,0.21487603305785125,Positivos
+Mural de Equipa,10,2016,121,0.08264462809917356,Positivos
+Gestão de Equipa,18,2016,121,0.1487603305785124,Positivos
+Gestão de Projectos,49,2016,121,0.4049586776859504,Positivos
+Aspecto Visual,20,2016,121,0.1652892561983471,Negativos
+Navegação na Ferramenta,23,2016,121,0.1900826446280992,Negativos
+Perguntas,22,2016,121,0.18181818181818185,Negativos
+Exemplos,25,2016,121,0.2066115702479339,Negativos
+Vídeos,15,2016,121,0.12396694214876032,Negativos
+Modelo de Negócios,7,2016,121,0.05785123966942149,Negativos
+Indicações de Interface,44,2016,121,0.3636363636363637,Negativos
+Mural de Equipa,39,2016,121,0.32231404958677684,Negativos
+Gestão de Equipa,29,2016,121,0.2396694214876033,Negativos
+Gestão de Projectos,17,2016,121,0.14049586776859505,Negativos
+Aspecto Visual,152,2017,304,0.5,Positivos
+Navegação na Ferramenta,191,2017,304,0.6282894736842105,Positivos
+Perguntas,83,2017,304,0.2730263157894737,Positivos
+Exemplos,135,2017,304,0.4440789473684211,Positivos
+Vídeos,195,2017,304,0.6414473684210527,Positivos
+Modelo de Negócios,181,2017,304,0.5953947368421053,Positivos
+Indicações de Interface,83,2017,304,0.2730263157894737,Positivos
+Mural de Equipa,18,2017,304,0.05921052631578948,Positivos
+Gestão de Equipa,33,2017,304,0.10855263157894736,Positivos
+Gestão de Projectos,133,2017,304,0.4375,Positivos
+Aspecto Visual,43,2017,304,0.14144736842105265,Negativos
+Navegação na Ferramenta,57,2017,304,0.1875,Negativos
+Perguntas,66,2017,304,0.21710526315789475,Negativos
+Exemplos,77,2017,304,0.2532894736842105,Negativos
+Vídeos,42,2017,304,0.13815789473684212,Negativos
+Modelo de Negócios,14,2017,304,0.046052631578947366,Negativos
+Indicações de Interface,87,2017,304,0.28618421052631576,Negativos
+Mural de Equipa,86,2017,304,0.28289473684210525,Negativos
+Gestão de Equipa,61,2017,304,0.20065789473684206,Negativos
+Gestão de Projectos,26,2017,304,0.08552631578947369,Negativos
+Aspecto Visual,300,2018,560,0.5357142857142857,Positivos
+Navegação na Ferramenta,368,2018,560,0.6571428571428571,Positivos
+Perguntas,169,2018,560,0.3017857142857143,Positivos
+Exemplos,246,2018,560,0.4392857142857143,Positivos
+Vídeos,282,2018,560,0.5035714285714286,Positivos
+Modelo de Negócios,334,2018,560,0.5964285714285714,Positivos
+Indicações de Interface,149,2018,560,0.26607142857142857,Positivos
+Mural de Equipa,29,2018,560,0.05178571428571429,Positivos
+Gestão de Equipa,73,2018,560,0.13035714285714287,Positivos
+Gestão de Projectos,206,2018,560,0.3678571428571429,Positivos
+Aspecto Visual,92,2018,560,0.16428571428571428,Negativos
+Navegação na Ferramenta,95,2018,560,0.16964285714285715,Negativos
+Perguntas,143,2018,560,0.25535714285714284,Negativos
+Exemplos,173,2018,560,0.30892857142857144,Negativos
+Vídeos,110,2018,560,0.19642857142857145,Negativos
+Modelo de Negócios,43,2018,560,0.07678571428571429,Negativos
+Indicações de Interface,178,2018,560,0.31785714285714284,Negativos
+Mural de Equipa,162,2018,560,0.2892857142857143,Negativos
+Gestão de Equipa,97,2018,560,0.1732142857142857,Negativos
+Gestão de Projectos,59,2018,560,0.10535714285714286,Negativos
+Resumo do negócio,0,2019,86,0.0,Positivos
+Modelo de negócios,55,2019,86,0.6395348837209303,Positivos
+Indicações de interface,6,2019,86,0.06976744186046513,Positivos
+Navegação na ferramenta,40,2019,86,0.4651162790697674,Positivos
+Aspecto visual,30,2019,86,0.3488372093023256,Positivos
+Exemplos,32,2019,86,0.372093023255814,Positivos
+Perguntas,19,2019,86,0.22093023255813954,Positivos
+Vídeos,25,2019,86,0.2906976744186047,Positivos
+Gestão de Equipa,10,2019,86,0.11627906976744184,Positivos
+Acesso a recursos externos,5,2019,86,0.05813953488372092,Positivos
+Resumo do negócio,0,2019,86,0.0,Negativos
+Modelo de negócios,6,2019,86,0.06976744186046513,Negativos
+Indicações de interface,29,2019,86,0.3372093023255814,Negativos
+Navegação na ferramenta,12,2019,86,0.13953488372093026,Negativos
+Aspecto visual,10,2019,86,0.11627906976744184,Negativos
+Exemplos,14,2019,86,0.16279069767441862,Negativos
+Perguntas,16,2019,86,0.18604651162790695,Negativos
+Vídeos,8,2019,86,0.09302325581395347,Negativos
+Gestão de Equipa,15,2019,86,0.1744186046511628,Negativos
+Acesso a recursos externos,38,2019,86,0.4418604651162791,Negativos
+Resumo do negócio,0,2020,54,0.0,Positivos
+Modelo de negócios,34,2020,54,0.6296296296296297,Positivos
+Indicações de interface,6,2020,54,0.1111111111111111,Positivos
+Navegação na ferramenta,19,2020,54,0.35185185185185186,Positivos
+Aspecto visual,21,2020,54,0.3888888888888889,Positivos
+Exemplos,21,2020,54,0.3888888888888889,Positivos
+Perguntas,10,2020,54,0.1851851851851852,Positivos
+Vídeos,23,2020,54,0.4259259259259259,Positivos
+Gestão de Equipa,8,2020,54,0.14814814814814814,Positivos
+Acesso a recursos externos,6,2020,54,0.1111111111111111,Positivos
+Resumo do negócio,0,2020,54,0.0,Negativos
+Modelo de negócios,5,2020,54,0.0925925925925926,Negativos
+Indicações de interface,14,2020,54,0.25925925925925924,Negativos
+Navegação na ferramenta,16,2020,54,0.2962962962962963,Negativos
+Aspecto visual,12,2020,54,0.2222222222222222,Negativos
+Exemplos,10,2020,54,0.1851851851851852,Negativos
+Perguntas,8,2020,54,0.14814814814814814,Negativos
+Vídeos,8,2020,54,0.14814814814814814,Negativos
+Gestão de Equipa,9,2020,54,0.16666666666666666,Negativos
+Acesso a recursos externos,18,2020,54,0.3333333333333333,Negativos

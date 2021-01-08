@@ -1,0 +1,21 @@
+Question,Counts,Year,population,Percentage,P/N
+Resumo do negócio,1,2019,190,0.005263157894736842,Positivos
+Modelo de negócios,107,2019,190,0.5631578947368421,Positivos
+Indicações de interface,20,2019,190,0.10526315789473684,Positivos
+Navegação na ferramenta,88,2019,190,0.4631578947368421,Positivos
+Aspecto visual,71,2019,190,0.3736842105263158,Positivos
+Exemplos,66,2019,190,0.3473684210526316,Positivos
+Perguntas,36,2019,190,0.18947368421052632,Positivos
+Vídeos,55,2019,190,0.2894736842105263,Positivos
+Gestão de Equipa,25,2019,190,0.13157894736842105,Positivos
+Acesso a recursos externos,11,2019,190,0.05789473684210526,Positivos
+Resumo do negócio,0,2019,190,0.0,Negativos
+Modelo de negócios,25,2019,190,0.13157894736842105,Negativos
+Indicações de interface,54,2019,190,0.28421052631578947,Negativos
+Navegação na ferramenta,44,2019,190,0.23157894736842105,Negativos
+Aspecto visual,36,2019,190,0.18947368421052632,Negativos
+Exemplos,38,2019,190,0.2,Negativos
+Perguntas,42,2019,190,0.22105263157894736,Negativos
+Vídeos,24,2019,190,0.12631578947368421,Negativos
+Gestão de Equipa,41,2019,190,0.21578947368421053,Negativos
+Acesso a recursos externos,78,2019,190,0.4105263157894737,Negativos
